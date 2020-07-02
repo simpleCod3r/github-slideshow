@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Nesse slide agradecemos ao tutorial ! 
+Agradecer e cantar
 
 Use the left arrow to go back!
